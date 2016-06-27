@@ -1,0 +1,18 @@
+ul.menu li a {
+  padding: .3em;
+  display: block;
+  text-decoration: none;
+  color: #FFFFFF;
+  background: #0000FF;
+  border-top: 1px solid #7C7C7C;
+  border-right: 1px solid #7C7C7C;
+  border-bottom: 1px solid #9C9C9C;
+}
+
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: #FFFFFF;
+  background-color: #0000FF 
+  }
